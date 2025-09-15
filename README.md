@@ -132,7 +132,7 @@ The system integrates live weather APIs, embeddings, vector retrieval, and an LL
 
 
 
-   git clone https://github.com/your-username/weather-rag-chatbot.git
+   gh repo clone tejareddy44/weather-prediction-using-rag
 
 
 
